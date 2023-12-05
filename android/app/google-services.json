@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "125611892475",
+    "project_id": "travel-app-qrtzv0",
+    "storage_bucket": "travel-app-qrtzv0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125611892475:android:67c15b3a89356715361a5e",
+        "android_client_info": {
+          "package_name": "com.mycompany.cupcakestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125611892475-4gg7ppp0hh88k61q4h2au6a2vn2i313s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cupcakestore",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "125611892475-f8077bqgpjsdtee8j85j1eqp5cfk2op7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyd60_SbCUIfVEsqXcb-_nbapcSgVbaJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125611892475-f8077bqgpjsdtee8j85j1eqp5cfk2op7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125611892475-110i9d5pvominrt5a6sbl33nf6astmvl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cupcakestore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
