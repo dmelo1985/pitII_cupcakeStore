@@ -1,6 +1,8 @@
 # CupcakeStore
 
-A new Flutter project.
+Projeto Integrador Transdisciplinar em Engenharia de Software II
+Nome: Daniel Melo dos Santos
+RGM: 24618837
 
 ## Getting Started
 
